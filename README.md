@@ -1,6 +1,6 @@
 # ClinVCF-OS
 
-**Version : v1.0.1** — 2026-05-10 13:56 UTC
+**Version : v1.0.2** — 2026-05-10 17:13 UTC
 
 ## Téléchargements
 
